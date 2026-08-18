@@ -1,0 +1,111 @@
+============================================================
+PER-TEAM ATTENDANCE
+============================================================
+Team 1          8/ 12  ( 66.7%)
+Team 2          5/ 11  ( 45.5%)
+Team 3         10/ 11  ( 90.9%)
+Team 4          7/ 11  ( 63.6%)
+Team 5          8/ 11  ( 72.7%)
+Team 6         10/ 14  ( 71.4%)
+Team 7         10/ 11  ( 90.9%)
+Team 8         11/ 12  ( 91.7%)
+Team 9         11/ 12  ( 91.7%)
+Team 10         8/ 11  ( 72.7%)
+Team 11         4/  9  ( 44.4%)
+Team 12         9/ 12  ( 75.0%)
+Team 13         8/ 12  ( 66.7%)
+Team 14         9/ 11  ( 81.8%)
+Team 15         9/ 11  ( 81.8%)
+Team 16         9/ 11  ( 81.8%)
+Team 17        11/ 13  ( 84.6%)
+Team 18         7/ 12  ( 58.3%)
+Team 19         9/ 11  ( 81.8%)
+Team 20         7/ 10  ( 70.0%)
+------------------------------------------------------------
+TOTAL         170/228  ( 74.6%)
+
+============================================================
+ABSENT STUDENTS (58)
+============================================================
+  ar.kulagin@innopolis.university                Team 1
+  d.zelenikhin@innopolis.university              Team 1
+  el.valieva@innopolis.university                Team 1
+  n.zhukov@innopolis.university                  Team 1
+
+  a.aigistova@innopolis.university               Team 2
+  a.kulakov@innopolis.university                 Team 2
+  e.kinzhabulatov@innopolis.university           Team 2
+  e.liashenko@innopolis.university               Team 2
+  g.khadzhimuratov@innopolis.university          Team 2
+  k.nadutkina@innopolis.university               Team 2
+
+  n.karlov@innopolis.university                  Team 3
+
+  a.motin@innopolis.university                   Team 4
+  il.idrisov@innopolis.university                Team 4
+  v.kuznetcova@innopolis.university              Team 4
+  vl.ivanov@innopolis.university                 Team 4
+
+  a.bidzhiev@innopolis.university                Team 5
+  a.chepaikina@innopolis.university              Team 5
+  d.kuzdubaev@innopolis.university               Team 5
+
+  d.rysych@innopolis.university                  Team 6
+  i.minnikhanov@innopolis.university             Team 6
+  l.gaidanova@innopolis.university               Team 6
+  m.pyrialov@innopolis.university                Team 6
+
+  a.shiriiazdanov@innopolis.university           Team 7
+
+  m.malyshkin@innopolis.university               Team 8
+
+  al.khuzina@innopolis.university                Team 9
+
+  i.asliamov@innopolis.university                Team 10
+  r.fatkullin@innopolis.university               Team 10
+  s.solodkov@innopolis.university                Team 10
+
+  am.ziganshin@innopolis.university              Team 11
+  d.balov@innopolis.university                   Team 11
+  k.sokolov@innopolis.university                 Team 11
+  m.vorobev@innopolis.university                 Team 11
+  s.katerinich@innopolis.university              Team 11
+
+  a.karimullin@innopolis.university              Team 12
+  am.zhdanov@innopolis.university                Team 12
+  e.muniev@innopolis.university                  Team 12
+
+  a.kniazheva@innopolis.university               Team 13
+  ami.valeev@innopolis.university                Team 13
+  d.konysheva@innopolis.university               Team 13
+  i.khanina@innopolis.university                 Team 13
+
+  a.imaev@innopolis.university                   Team 14
+  i.novikov@innopolis.university                 Team 14
+
+  a.nabiullin@innopolis.university               Team 15
+  i.guzhikhin@innopolis.university               Team 15
+
+  b.khadamov@innopolis.university                Team 16
+  m.eliseev@innopolis.university                 Team 16
+
+  d.fazylzianov@innopolis.university             Team 17
+  s.loginov@innopolis.university                 Team 17
+
+  a.fomicheva@innopolis.university               Team 18
+  d.safina1@innopolis.university                 Team 18
+  k.borisov@innopolis.university                 Team 18
+  m.obraztcov@innopolis.university               Team 18
+  n.ibragimov@innopolis.university               Team 18
+
+  e.proleev@innopolis.university                 Team 19
+  v.berezhenko@innopolis.university              Team 19
+
+  d.murtazin@innopolis.university                Team 20
+  g.reznik@innopolis.university                  Team 20
+  r.mannanova@innopolis.university               Team 20
+
+============================================================
+UNKNOWN STUDENTS — in attendance but NOT in teams (1)
+============================================================
+  g.popov@innopolis.university
