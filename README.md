@@ -20,5 +20,4 @@ Defaults to `IU Day 1-attendance.txt` if no file is provided.
 ## Files
 
 - `Participants_by_teams.csv` — master roster (20 teams, emails per column)
-- `Участники_IBC2026_с_почтами.xlsx` — detailed roster with names, Telegram handles, rooms
 - `check_attendance.py` — attendance checker script
