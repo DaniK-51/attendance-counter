@@ -16,10 +16,7 @@ python3 check_attendance.py "IU Day 1-attendance.txt"
 
 ## Output
 
-Results are printed to console and saved to two files (derived from attendance file name):
-
-- `<name>_stats.txt` — per-team attendance count and percentage
-- `<name>_details.txt` — absent students, unknown students, corrupted emails
+Results are printed to console and saved to `<name>_report.txt` (derived from attendance file name). Contains per-team stats, absent students, unknown students, and corrupted emails.
 
 ## Files
 

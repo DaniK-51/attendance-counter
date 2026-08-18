@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
 .mimocode/
-*_stats.txt
-*_details.txt
+*_report.txt
