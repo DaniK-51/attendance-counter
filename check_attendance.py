@@ -100,7 +100,10 @@ def check_attendance(teams_csv: Path, attendance_txt: Path) -> None:
 
 
 if __name__ == "__main__":
-    attendance_file = Path(sys.argv[1]) if len(sys.argv) > 1 else RATING_DIR / "IU Day 2-attendance.txt"
+    if len(sys.argv) < 2:
+        print("Usage: python3 check_attendance.py <attendance_file.txt>")
+        sys.exit(1)
+    attendance_file = Path(sys.argv[1])
     if not attendance_file.exists():
         print(f"File not found: {attendance_file}")
         sys.exit(1)

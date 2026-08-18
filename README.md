@@ -5,10 +5,14 @@ Checks lecture attendance against the team roster.
 ## Usage
 
 ```bash
-python3 check_attendance.py [attendance_file.txt]
+python3 check_attendance.py <attendance_file.txt>
 ```
 
-Defaults to `IU Day 1-attendance.txt` if no file is provided.
+The attendance file name is required. Example:
+
+```bash
+python3 check_attendance.py "IU Day 1-attendance.txt"
+```
 
 ## Output
 
