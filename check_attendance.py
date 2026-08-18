@@ -49,13 +49,17 @@ def check_attendance(teams_csv: Path, attendance_txt: Path) -> None:
 
     all_members = set(email_to_team.keys())
 
+    def team_sort_key(team_name: str) -> int:
+        digits = "".join(c for c in team_name if c.isdigit())
+        return int(digits) if digits else 0
+
     # ── Per-team stats ──
     print("=" * 60)
     print("PER-TEAM ATTENDANCE")
     print("=" * 60)
     total_present = 0
     total_members = 0
-    for team, members in teams.items():
+    for team, members in sorted(teams.items(), key=lambda kv: team_sort_key(kv[0])):
         if not members:
             continue
         present = [m for m in members if m in attended]
@@ -69,7 +73,7 @@ def check_attendance(teams_csv: Path, attendance_txt: Path) -> None:
     print(f"{'TOTAL':12s}  {total_present:3d}/{total_members:3d}  ({overall_pct:5.1f}%)")
 
     # ── Absent students (sorted by team number, then email) ──
-    absent = sorted(all_members - attended, key=lambda e: (email_to_team[e], e))
+    absent = sorted(all_members - attended, key=lambda e: (team_sort_key(email_to_team[e]), e))
     print(f"\n{'=' * 60}")
     print(f"ABSENT STUDENTS ({len(absent)})")
     print("=" * 60)
