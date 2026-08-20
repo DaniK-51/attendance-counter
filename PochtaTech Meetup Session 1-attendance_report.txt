@@ -57,7 +57,7 @@ ABSENT STUDENTS (88)
   k.egorova@innopolis.university                 Team 5
 
   a.sanina@innopolis.university                  Team 6
-  e.khariushina@innopolis.university             Team 6
+  d.salimzianov@innopolis.university             Team 6
   e.musin@innopolis.university                   Team 6
   i.khuzhiakhmetov@innopolis.university          Team 6
   i.minnikhanov@innopolis.university             Team 6
@@ -127,7 +127,7 @@ ABSENT STUDENTS (88)
   s.malkov@innopolis.university                  Team 18
 
   an.dunaev@innopolis.university                 Team 19
-  d.salimzianov@innopolis.university             Team 19
+  e.khariushina@innopolis.university             Team 19
   i.mamaev@innopolis.university                  Team 19
   v.berezhenko@innopolis.university              Team 19
 
