@@ -20,9 +20,9 @@ Team 16         9/ 11  ( 81.8%)
 Team 17         7/ 13  ( 53.8%)
 Team 18         3/ 12  ( 25.0%)
 Team 19         7/ 11  ( 63.6%)
-Team 20         7/ 10  ( 70.0%)
+Team 20         8/ 11  ( 72.7%)
 ------------------------------------------------------------
-TOTAL         140/228  ( 61.4%)
+TOTAL         141/229  ( 61.6%)
 
 ============================================================
 ABSENT STUDENTS (88)
@@ -132,16 +132,15 @@ ABSENT STUDENTS (88)
   v.berezhenko@innopolis.university              Team 19
 
   d.murtazin@innopolis.university                Team 20
-  g.reznik@innopolis.university                  Team 20
+  em.gilfanov@innopolis.university               Team 20
   rom.alekseev@innopolis.university              Team 20
 
 ============================================================
-UNKNOWN STUDENTS — in attendance but NOT in teams (9)
+UNKNOWN STUDENTS — in attendance but NOT in teams (8)
 ============================================================
   a.frolova@innopolis.university
   a.gekhtin@innopolis.university
   d.yakupov@innopolis.university
-  e.anokhin@innopolis.university
   i.lishchenko@innopolis.university
   i.perekrestova@innopolis.university
   r.kudinov@innopolis.university
